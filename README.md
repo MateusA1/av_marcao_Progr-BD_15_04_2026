@@ -26,13 +26,13 @@ O sistema busca resolver problemas como:
 
 O sistema é composto pelas seguintes entidades:
 
-* **Aluno**
-* **Professor**
-* **Disciplina**
-* **Turma**
-* **Matrícula** (entidade associativa)
+* Aluno**
+* Professor
+* Disciplina
+* Turma
+* Matrícula (entidade associativa)
 
-### 🔗 Relacionamentos
+### Relacionamentos
 
 * Um aluno pode se matricular em várias disciplinas (**N:N**)
 * Uma disciplina possui vários alunos (**N:N**)
